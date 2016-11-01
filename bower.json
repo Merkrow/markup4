@@ -1,0 +1,17 @@
+{
+  "name": "markup4",
+  "description": "something",
+  "main": "index.js",
+  "authors": [
+    "Merkrow"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Merkrow/markup4",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
